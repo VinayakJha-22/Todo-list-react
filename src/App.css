@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.btn {
+  background-color: rgb(17, 31, 58);
+  color: white;
+  border: none;
+  margin: 1px;
+  padding: 10px 5px;
+  cursor: pointer;
+  border: 1px solid white;
+}
+.btn:hover {
+  border: 1px solid black;
+}
